@@ -9,9 +9,9 @@
 	- EventTicketApi
 	- TokenServiceApi
 	- OrderApi
-	- WebMvc
 	- Mssqlserver
 	- Redis
+	- Rabbit MQ
 
 
 # Asignments
